@@ -1,47 +1,47 @@
 {
   "coord": {
-    "lon": 0.1594,
-    "lat": 52.6662
+    "lon": -0.1257,
+    "lat": 51.5085
   },
   "weather": [
     {
-      "id": 804,
+      "id": 803,
       "main": "Clouds",
-      "description": "overcast clouds",
+      "description": "broken clouds",
       "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 12.99,
-    "feels_like": 12.69,
-    "temp_min": 12.12,
-    "temp_max": 13.34,
-    "pressure": 1001,
-    "humidity": 90,
-    "sea_level": 1001,
-    "grnd_level": 1001
+    "temp": 13.63,
+    "feels_like": 13.19,
+    "temp_min": 12.79,
+    "temp_max": 14.06,
+    "pressure": 1002,
+    "humidity": 82,
+    "sea_level": 1002,
+    "grnd_level": 998
   },
   "visibility": 10000,
   "wind": {
-    "speed": 9.55,
-    "deg": 190,
-    "gust": 19.88
+    "speed": 6.69,
+    "deg": 180,
+    "gust": 11.83
   },
   "clouds": {
-    "all": 100
+    "all": 75
   },
-  "dt": 1765279173,
+  "dt": 1765280371,
   "sys": {
-    "type": 1,
-    "id": 1512,
+    "type": 2,
+    "id": 2075535,
     "country": "GB",
-    "sunrise": 1765267131,
-    "sunset": 1765295094
+    "sunrise": 1765266848,
+    "sunset": 1765295514
   },
   "timezone": 0,
-  "id": 2633771,
-  "name": "Wisbech",
+  "id": 2643743,
+  "name": "London",
   "cod": 200,
-  "_last_updated_utc": "2025-12-09T11:19:36.673Z"
+  "_last_updated_utc": "2025-12-09T11:45:36.936Z"
 }
